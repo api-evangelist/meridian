@@ -1,0 +1,45 @@
+name: Meridian
+description: APIs and resources for Meridian services
+image: https://example.com/meridian-logo.png
+url: https://meridian.example.com
+created: '2024-01-01'
+modified: '2024-01-01'
+apis:
+- name: Meridian Core API
+  description: Core API for Meridian platform services
+  image: https://example.com/meridian-api-logo.png
+  humanURL: https://meridian.example.com
+  baseURL: https://api.meridian.example.com/v1
+  tags:
+  - meridian
+  - core
+  - platform
+  properties:
+  - type: Documentation
+    url: https://docs.meridian.example.com
+  - type: OpenAPI
+    url: https://api.meridian.example.com/openapi.yaml
+  - type: Authentication
+    url: https://docs.meridian.example.com/authentication
+  - type: Pricing
+    url: https://meridian.example.com/pricing
+  - type: Terms of Service
+    url: https://meridian.example.com/terms
+  - type: Rate Limits
+    url: https://docs.meridian.example.com/rate-limits
+  contact:
+  - type: Email
+    url: mailto:api-support@meridian.example.com
+  - type: Support
+    url: https://support.meridian.example.com
+  - type: Twitter
+    url: https://twitter.com/meridian
+maintainers:
+- name: Meridian API Team
+  email: api-team@meridian.example.com
+  url: https://meridian.example.com/team
+tags:
+- meridian
+- apis
+- platform
+include: []
