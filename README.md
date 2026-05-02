@@ -1,40 +1,30 @@
 # Meridian (meridian)
-APIs and resources for Meridian services
 
-**URL:** [Visit APIs.json URL](https://meridian.example.com)
+Meridian is a placeholder or concept entry. No verified developer portal or public API has been identified for this specific provider.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/meridian/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - meridian, apis, platform
+ - (none)
 
 ## Timestamps
 
-- **Created:** 2024-01-01 
-- **Modified:** 2024-01-01 
+- **Created:** 2024-01-01
+- **Modified:** 2026-03-16
 
 ## APIs
 
-### Meridian Core API
-Core API for Meridian platform services
-
-**Human URL:** [https://meridian.example.com](https://meridian.example.com)
-
-
-#### Tags:
-
- - meridian, core, platform
-
-#### Properties
-
-- [Documentation](https://docs.meridian.example.com)
-- [OpenAPI](https://api.meridian.example.com/openapi.yaml)
-- [Authentication](https://docs.meridian.example.com/authentication)
-- [Pricing](https://meridian.example.com/pricing)
-- [Terms of Service](https://meridian.example.com/terms)
-- [Rate Limits](https://docs.meridian.example.com/rate-limits)
+No public APIs have been documented yet. Contributions welcome.
 
 ## Maintainers
 
-**FN:** Meridian API Team
+**FN:** Kin Lane
 
-**Email:** api-team@meridian.example.com
+**Email:** kin@apievangelist.com
