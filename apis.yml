@@ -15,7 +15,6 @@ common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/meridian-credit-union
 apis: []
-common: []
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
