@@ -1,4 +1,4 @@
-# Meridian (meridian)
+# Meridian
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,29 +66,24 @@
 
 Meridian is a placeholder or concept entry. No verified developer portal or public API has been identified for this specific provider.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/meridian/refs/heads/main/apis.yml)
+## Meridian on APIs.io
 
-## Scope
+Everything profiled for Meridian is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/meridian/](https://apis.io/providers/meridian/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## API Evangelist rating
 
-## Tags:
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
- - (none)
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Timestamps
+## How this profile is made
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-03-16
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## APIs
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Meridian: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-No public APIs have been documented yet. Contributions welcome.
+## Open an issue
 
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/meridian/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
